@@ -42,7 +42,7 @@
             <input id="cpf" type="text" class="form-control bgInputCpf" formControlName="cpf" mask="000.000.000-00">
         </div>
         <div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xs-4">
-            <button type="button" class="btn btn-primary" (click)="consultar()" [disabled]="false">
+            <button type="button" class="buttonStyleCpf" (click)="consultar()" [disabled]="false">
                 Consultar por CPF
             </button>
         </div>
@@ -140,12 +140,12 @@
 </div>
 <div class="row bgInputCpf positionBottom">
     <div class="col-sm-2 col-md-2 col-lg-2 col-xs-2 mt-2 mb-2" *ngIf="dados">
-        <button type="button" class="btn btn-primary">
+        <button type="button" class="buttonStyle buttonStyleColorsB1">
             Iniciar nova admissão
         </button>
     </div>
     <div class="col-sm-2 col-md-2 col-lg-2 col-xs-2 mt-2 mb-2">
-        <button type="button" class="btn btn-primary">
+        <button type="button" class="buttonStyle buttonStyleColorsB2">
             Dicas para admissão
         </button>
     </div>
