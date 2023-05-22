@@ -1,0 +1,80 @@
+{
+    "infoCooperadoApiRest": {
+        "page": 1,
+        "per_page": 10,
+        "total": 10,
+        "total_pages": 1,
+        "data": [
+            {
+                "cpf": "42730650024",
+                "nome": "Mariane de Souza Oliveira",
+                "situacaoCpf": "Regular",
+                "numeroContaAplicacao": "557932-4",
+                "numeroContaCorrente": "778461-8"
+            },
+            {
+                "cpf": "04408280070",
+                "nome": "Cooperado xyz",
+                "situacaoCpf": "Regular",
+                "numeroContaAplicacao": "6542",
+                "numeroContaCorrente": "87441-3"
+            },
+            {
+                "cpf": "01501900005",
+                "nome": "Cooperado 1",
+                "situacaoCpf": "Irregular",
+                "numeroContaAplicacao": "878454-4",
+                "numeroContaCorrente": "2154-8"
+            },
+            {
+                "cpf": "57062444057",
+                "nome": "Cooperado 1222",
+                "situacaoCpf": "Regular",
+                "numeroContaAplicacao": "645423-4",
+                "numeroContaCorrente": "65411-8"
+            },
+            {
+                "cpf": "09880920007",
+                "nome": "Cooperado 1002",
+                "situacaoCpf": "Regular",
+                "numeroContaAplicacao": "78565-4",
+                "numeroContaCorrente": "3446-8"
+            },
+            {
+                "cpf": "88570744048",
+                "nome": "Cooperado 111",
+                "situacaoCpf": "Regular",
+                "numeroContaAplicacao": "6762652-4",
+                "numeroContaCorrente": "7984-8"
+            },
+            {
+                "cpf": "76245291062",
+                "nome": "Cooperado 17",
+                "situacaoCpf": "Regular",
+                "numeroContaAplicacao": "876521-4",
+                "numeroContaCorrente": "6542-8"
+            },
+            {
+                "cpf": "21872849059",
+                "nome": "Cooperado 12",
+                "situacaoCpf": "Irregular",
+                "numeroContaAplicacao": "656525-4",
+                "numeroContaCorrente": "35454-8"
+            },
+            {
+                "cpf": "87557315030",
+                "nome": "Cooperado 15",
+                "situacaoCpf": "Irregular",
+                "numeroContaAplicacao": "44515-4",
+                "numeroContaCorrente": "75452-8"
+            },
+            {
+                "cpf": "24775823051",
+                "nome": "Cooperado 16",
+                "situacaoCpf": "Irregular",
+                "numeroContaAplicacao": "989846-4",
+                "numeroContaCorrente": "345564-8"
+            }
+        ]
+    }
+}
